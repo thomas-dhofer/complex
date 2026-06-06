@@ -26,7 +26,8 @@
     }
   },
   "dependencies": {
-    "electron-store": "^8.2.0"
+    "electron-store": "^8.2.0",
+    "marked": "^18.0.5"
   },
   "devDependencies": {
     "electron": "^42.3.3",

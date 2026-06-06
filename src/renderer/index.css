@@ -753,7 +753,8 @@ error{
 #chatList div{
     padding: 0.5em;
     border-radius: 2em;
-    margin-right: 0.5em;
+    width: 16em;
+    margin-left: -1em;
 }
 
 #chatList div:hover{

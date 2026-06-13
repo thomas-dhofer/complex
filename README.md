@@ -25,4 +25,4 @@ one analyzes, one criticizes, one synthesizes.
 - OpenRouter API Key (https://openrouter.ai)
 
 ## Build
-npm run build
+- npm run build
